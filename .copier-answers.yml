@@ -1,0 +1,8 @@
+# Managed by Copier. Do not edit by hand; run `copier update` instead.
+_commit: v1.0.0
+_src_path: gh:steven-cutting/biscuit_games_template
+description: A very good dog offers a paw, and three in a row across the toe beans
+    wins.
+game_name: Tic Tac Toe Beans
+game_slug: tic_tac_toe_beans
+repository: steven-cutting/tic_tac_toe_beans
